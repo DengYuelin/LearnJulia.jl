@@ -17,7 +17,8 @@ Example of Julia package to go along with [these notes](https://tlienart.github.
 to generate a package, `generate PkgName`\
 then `dev path\\to\\dir\\PkgName`
 
-to test a single package, in the package dirctory, `activate .` in pkg mode\
+to test a single package, in the package directory, `activate .` in pkg mode\
 and `activate` to exit current package
 
-
+## IJulia
+To run julia in vscode using Jupyter Notebook, select julia.exe as the interpreter.
