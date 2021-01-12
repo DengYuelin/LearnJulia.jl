@@ -1,0 +1,7 @@
+name = "Ex"
+uuid = "f838c43b-e850-49e0-b01d-8ad6c857d536"
+authors = ["DengYuelin <dengyuelin66dyl@163.com>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
