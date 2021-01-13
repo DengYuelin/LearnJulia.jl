@@ -26,7 +26,7 @@ and `activate` to exit current package\
 And `test` to run all tests in `test\\runtests.jl`
 
 ### Modify web packages
-`develop --local PackageName`
+`develop --local PackageName` To create a local copy of the package\
 `free PackageName` To stop using local version.
 
 ## IJulia
