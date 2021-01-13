@@ -31,3 +31,6 @@ And `test` to run all tests in `test\\runtests.jl`
 
 ## IJulia
 To run julia in vscode using Jupyter Notebook, select julia.exe as the interpreter.
+
+## Questions
+- How to run examples from REPL?
